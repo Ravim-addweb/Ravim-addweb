@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Exploring advanced architectures, cloud computing, and performance optimization**
 
-- 👯 I’m looking to collaborate on **API integrations**
+- 👯 I’m looking to collaborate on **innovative projects, open-source, web & mobile technologies**
 
-- 💬 Ask me about **React, Node.js, MongoDB, Express.js,Laravel and Full-Stack Development**
+- 💬 Ask me about **React, Node.js, MongoDB, Express.js,L aravel and Full-Stack Development**
 
 - ⚡ Fun fact **I love solving complex problems and optimizing performance in web applications!**
 
